@@ -1,27 +1,48 @@
-# LojaComputer
+# Loja Computers - Angular E-commerce
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-## Development server
+## Description
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Loja Computers is an Angular-based e-commerce project for selling computer products. It provides a user-friendly interface to browse and purchase various computer products.
 
-## Code scaffolding
+You can access the live version of the website [here](https://rafaelsouzagoes.github.io/loja-computers/produtos).
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Technologies Used
 
-## Build
+- Angular
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Prerequisites
 
-## Running unit tests
+Before running the project, make sure you have the following dependencies installed:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Node.js (https://nodejs.org/)
+- Angular CLI (https://angular.io/cli)
 
-## Running end-to-end tests
+## How to Run the Project Locally
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. Clone this repository to your local machine using the following command:
 
-## Further help
+  git clone https://github.com/RafaelSouzaGoes/loja-computers.git
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+2. Navigate to the "loja-computers" directory.
+
+3. Install the project dependencies by running the following command:
+
+npm install
+
+4. After the installation is complete, start the development server by running:
+
+ng serve
+
+
+5. Open your web browser and go to `http://localhost:4200/` to see the application running locally.
+
+## Live Demo
+
+You can access the live version of the website [here](https://rafaelsouzagoes.github.io/loja-computers/produtos).
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
